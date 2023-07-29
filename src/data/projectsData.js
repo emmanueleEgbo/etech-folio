@@ -10,7 +10,7 @@ export default [
       title: 'robofriends',
       imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1127276854341017690/robofriends-screenshot.png',
       tech: ['Tech:', 'React', 'JavaScript', 'HTML', 'CSS'],
-      demoUrl: 'https://smart-brain-3eok.onrender.com/'
+      demoUrl: 'https://etechpro-robofriends.netlify.app'
     },
     {
       title: 'shopping-list',
