@@ -5,6 +5,11 @@ export default [
       tech: ['Tech:', 'React', 'JavaScript', 'HTML', 'CSS', 'Tachyons CSS', 'NodeJS', 'ExpressJS', 'PostgreSQL', 'Clarifai API'],
       demoUrl:'https://smart-brain-3eok.onrender.com/'
 
+    },{
+      title: 'My portfolio website',
+      imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1133800988197781624/etech-folioPics.png',
+      tech: ['Tech:', 'React', 'JavaScript', 'Vite', 'HTML5', 'CSS3', 'Tailwind CSS', 'Daisy UI'],
+      demoUrl: 'https://etechpro.org'
     },
     {
       title: 'robofriends',
