@@ -1,7 +1,7 @@
 {
   "name": "etech-folio",
-  "homepage": "https://etechpro.github.io/etech-folio/",
-  "private": false,
+  "homepage": "./https://etechpro.github.io/etech-folio/",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
