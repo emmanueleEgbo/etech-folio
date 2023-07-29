@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer() {
   return (
-    <div  className="grid py-5 mr-2 mt-8 bg-slate-800 dark:bg-slate-700 text-center md:w-[90vw] lg:w-[79vw] text-gray-300">
+    <div  className="grid py-5 mr-2 mt-8 bg-slate-900 dark:bg-slate-800 text-center rounded-t-3xl content-center text-gray-300">
       <div className="">
         <a href="#home" className="block text-xl md:text-2xl font-semibold hover:text-indigo-500">Emmanuel Egbo</a>
         <a href="mailto: technov8tive@gmail.com"

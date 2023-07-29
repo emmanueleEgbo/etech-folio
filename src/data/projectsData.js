@@ -1,6 +1,6 @@
 export default [
     {
-      title: 'smart-brain',
+      title: 'smart-brain - A Face Detection App',
       imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1134090465101238332/faceDetectionApp.png',
       tech: ['Tech:', 'React', 'JavaScript', 'HTML', 'CSS', 'Tachyons CSS', 'NodeJS', 'ExpressJS', 'PostgreSQL', 'Clarifai API'],
       demoUrl:'https://smart-brain-3eok.onrender.com/'
@@ -12,7 +12,7 @@ export default [
       demoUrl: 'https://etechpro.org'
     },
     {
-      title: 'robofriends',
+      title: 'robofriends - An App that lets you select your favorite robofriend',
       imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1127276854341017690/robofriends-screenshot.png',
       tech: ['Tech:', 'React', 'JavaScript', 'HTML', 'CSS'],
       demoUrl: 'https://etechpro-robofriends.netlify.app'
