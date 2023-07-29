@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer utilities {
-  .dark .dark:bg-\[\\#000000\] {
-    background-color: #000000;
+  .dark .dark:bg-black {
+    background-color: black;
   }
 }
