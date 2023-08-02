@@ -9,6 +9,7 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import tailwindIcon from '../assets/tailwindIcon.png';
 import expressJsLogo from '../assets/expressJsLogo.png';
 import reduxLogo from '../assets/reduxLogo.png';
+import typescriptLogo from '../assets/typescript.png';
 import postgreSqlLogo from '../assets/postgreSqlLogo.png';
 import mongoDbLogo from '../assets/mongoDbLogo.png';
 
@@ -16,6 +17,10 @@ export default[
   {
     icon: <FontAwesomeIcon icon={faReact} className="w-full h-full" />,
      title: 'React',
+  },
+  {
+    icon: <img src={typescriptLogo} alt="typescriptLogo" className="w-full h-full" />,
+     title: 'TypeScript',
   },
    {
     icon: <img src={reduxLogo} alt="reduxLogo" className="w-full h-full" />,
