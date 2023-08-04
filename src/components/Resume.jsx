@@ -24,7 +24,7 @@ function Resume() {
       </div>
       <div>
         <span className="text-sm dark:text-[#02ec88]">2022 - 2023</span>
-        <h1 className="text-md md:text-lg lg:text-xl font-inter font-semibold" >Masters of Science in Cyber Security <span className="text-sm">(Awarded: Distinction)</span></h1>
+        <h1 className="text-md md:text-lg lg:text-xl font-inter font-semibold" >Master of Science in Cyber Security <span className="text-sm">(Awarded: Distinction)</span></h1>
         <span className="text-sm">University of Bradford</span>
       </div>
       <div>
