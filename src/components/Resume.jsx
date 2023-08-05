@@ -43,7 +43,7 @@ function Resume() {
           <li>Crypto for Beginners</li>
         </ul>
         <span>
-          <a href="https://cdn.discordapp.com/attachments/1127275147087315034/1136081620672184382/Emmanuel_Egbo_Updated_CV2.pdf">
+          <a href="https://cdn.discordapp.com/attachments/1127275147087315034/1137501529427947560/EmmanuelEgboCV.pdf">
           <button className="flex items-center justify-center font-Montserrat text-lg text-black md:text-2xl py-4 font-semibold bg-[#02ec88] 
               hover:bg-[#5ada86] hover:-translate-y-2 transform transition sm:w-[220px] md:w-[240px] md:h-[50px] sm:h-[30px]  rounded-2xl"
             >Download CV</button>
