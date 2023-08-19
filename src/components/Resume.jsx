@@ -13,13 +13,12 @@ function Resume() {
       <div>
         <h1 className="text-lg md:text-xl lg:text-2xl font-inter font-medium mt-4 mb-8">Education & <span className="dark:text-[#02ec88]">Experience</span></h1>
         <span className="text-sm dark:text-[#02ec88]">2020  -Present</span>
-        <h2 className="text-md md:text-lg lg:text-xl font-inter font-semibold">Full Stack Web Developer</h2>
-        <h2 className="text-md md:text-lg lg:text-xl font-inter font-semibold">Front-End Web Developer</h2>
+        <h2 className="text-md md:text-lg lg:text-xl font-inter font-semibold">Full Stack Developer</h2>
         <span className="text-sm">Procrea8 Technology Solutions</span>
       </div>
       <div>
         <span className="text-sm dark:text-[#02ec88]">2018 - 2020</span>
-        <h2 className="text-md md:text-lg lg:text-xl font-inter font-semibold">IT Technician</h2>
+        <h2 className="text-md md:text-lg lg:text-xl font-inter font-semibold">Frontend Developer</h2>
         <span className="text-sm">SYNLAB</span>
       </div>
       <div>
