@@ -1,31 +1,40 @@
+
+import React from "react";
+import faceDetection from "../assets/faceDetection.png";
+import portfolioImg from "../assets/etech-folioPics.png";
+import robofriendsImg from "../assets/robofriends-screenshot.png";
+import calculatorImg from "../assets/simplePocketCalculator.png";
+import shoppingListImg from "../assets/shopping-list.png";
+
+
 export default [
     {
       title: 'smart-brain - A Face Detection App',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1134090465101238332/faceDetectionApp.png',
+      imageUrl: faceDetection,
       tech: ['Tech:', 'React', 'JavaScript', 'HTML', 'CSS', 'Tachyons CSS', 'NodeJS', 'ExpressJS', 'PostgreSQL', 'Clarifai API'],
       demoUrl:'https://smart-brain-3eok.onrender.com/'
 
     },{
       title: 'My portfolio website',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1133800988197781624/etech-folioPics.png',
+      imageUrl: portfolioImg,
       tech: ['Tech:', 'React', 'JavaScript', 'Vite', 'HTML5', 'CSS3', 'Tailwind CSS', 'Daisy UI'],
       demoUrl: 'https://etechpro.org'
     },
     {
       title: 'robofriends - An App that lets you select your favorite robofriend',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1127276854341017690/robofriends-screenshot.png',
+      imageUrl: robofriendsImg,
       tech: ['Tech:', 'React', 'JavaScript', 'HTML', 'CSS'],
       demoUrl: 'https://etechpro-robofriends.netlify.app'
     },
     {
       title: 'shopping-list',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1127278336742260866/shopping-list.png',
+      imageUrl: shoppingListImg,
       tech: ['Tech:', 'JavaScript', 'HTML', 'CSS'],
       demoUrl: 'https://etechpro.github.io'
     },
     {
       title: 'simple pocket calculator',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1127275147087315034/1127315989932032050/simplePocketCalculator.png',
+      imageUrl: calculatorImg,
       tech: ['Tech:', 'JavaScript', 'HTML', 'CSS'],
       demoUrl: 'https://etechpro.github.io/etechpro.github.io-calculator/'
     },  
